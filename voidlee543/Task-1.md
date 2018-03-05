@@ -51,7 +51,7 @@
 GitHub 帳號是 `voidlee543`，EMail 是 [shvoidlee@gmail.com] [email]。
 
 
-[email]: mailto:lee.ybon@gmail.com  "This is my email."
+[email]: mailto:shvoidlee@gmail.com  "This is my email."
 [emr]: http://emr.mohw.gov.tw/  "電子病歷"
 [ris]: https://www.vghtpe.gov.tw/  "報告系統"
 [pacs]: http://www.datacom.com.tw/  "醫學影像系統"
